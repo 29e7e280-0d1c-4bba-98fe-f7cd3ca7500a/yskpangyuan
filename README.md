@@ -2,6 +2,9 @@
 
 胖圆是一个可以同步头条发布内容的工具，开发中
 
+## 文档
+
+[https://pangyuan.netroby.com](https://pangyuan.netroby.com)
 
 ## 使用
 
